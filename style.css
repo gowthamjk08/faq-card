@@ -34,7 +34,7 @@ main{
     max-width:600px;
     background-color: var(--White);
     border-radius:10px;
-    margin:40px 20px;
+    margin:0px 20px;
     box-shadow: 0 0 20px black;
     overflow: hidden;
 }
@@ -87,9 +87,9 @@ p{
         background-size: 100% 400px;
         background-position: 0 -80px;
     }
-    main{
+/*     main{
         margin:80px 20px;
-    }
+    } */
     h4{
         font-size: 18px;
     }
