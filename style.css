@@ -85,7 +85,7 @@ p{
     body{
         background: url(./assets/images/background-pattern-mobile.svg)no-repeat;
         background-size: 100% 400px;
-        background-position: 0 -80px;
+        background-position: 0 -100px;
     }
 /*     main{
         margin:80px 20px;
